@@ -1,5 +1,5 @@
 <h1 align="center">Lav Naruka</h1>
-<p align="center">Game Developer | Backend Engineer</p>
+<p align="center">Game Developer</p>
 
 ---
 
