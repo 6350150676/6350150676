@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-I am a game developer and backend engineer focused on building immersive, interactive systems.  
+I am a game developer  focused on building immersive, interactive systems.  
 I enjoy working on both gameplay and infrastructure — from Unity mechanics to Go-based backend services.  
 I have around 6 months of hands-on experience developing small games, experimenting with multiplayer systems, and writing backend APIs.
 
